@@ -9,4 +9,4 @@ Includes the R codes for:
 
 To cite this project in publications use:
 
-- [H.-C. So, et al., “When GWAS meets the Connectivity Map: drug repositioning for seven psychiatric disorders,” bioRxiv, 2016, pp. 096503; DOI 10.1101/096503](https://www.biorxiv.org/content/10.1101/096503v1).
+- [So, H. C., Chau, C. K. L., Chiu, W. T., Ho, K. S., Lo, C. P., Yim, S. H. Y., & Sham, P. C. (2017). Analysis of genome-wide association data highlights candidates for drug repositioning in psychiatry. Nature neuroscience, 20(10), 1342-1349.](https://doi.org/10.1038/nn.4618).
